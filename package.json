@@ -1,0 +1,22 @@
+{
+    "name": "reikernx",
+    "version": "1.0.0",
+    "description": "Simple Node.js wrapper for interacting with NexusV1 messaging API.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": [
+      "nexusv1",
+      "messaging",
+      "bot",
+      "api",
+      "wrapper",
+      "nodejs"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^1.6.8"
+    }
+  }
